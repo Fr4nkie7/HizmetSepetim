@@ -60,13 +60,6 @@ APK dosyalarına GitHub Releases üzerinden ulaşabilirsiniz:
 
 `/screenshots` klasörüne yükledikten sonra bu bölüm otomatik güzelleşir.
 
-Örnek:
-
-<p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/payment.png" width="250">
-  <img src="screenshots/support.png" width="250">
-</p>
 
 ---
 
