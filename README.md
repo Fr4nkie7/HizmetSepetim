@@ -132,11 +132,6 @@ Bu örnekler, proje teknolojilerini küçük bağımsız test projeleri şeklind
 
 ---
 
-# 📄 Lisans  
-*(İsteğe bağlı olarak MIT veya Apache 2.0 lisansı eklenebilir.)*
-
----
-
 <p align="center">
   <b>HizmetSepetim</b> • Modern Hizmet Marketplace Platformu
 </p>
