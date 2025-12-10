@@ -56,9 +56,6 @@ APK dosyalarına GitHub Releases üzerinden ulaşabilirsiniz:
 
 ---
 
-# 🖼 Ekran Görselleri
-
-`/screenshots` klasörüne yükledikten sonra bu bölüm otomatik güzelleşir.
 
 
 ---
