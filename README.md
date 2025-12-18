@@ -31,7 +31,7 @@ Bu repo, uygulamanın **public vitrini** olarak hazırlanmıştır.
 > ⚠️ Uygulamanın çekirdek kodları (API, Admin Panel, Android App) güvenlik nedeniyle **private** depolardadır.
 
 ---
-
+sa
 # 📱 Mobil Uygulama (Android – Jetpack Compose)
 
 ### Özellikler:
