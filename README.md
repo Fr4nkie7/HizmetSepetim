@@ -19,7 +19,8 @@
 # 🚀 Proje Hakkında
 **HizmetSepetim**, kullanıcıların temizlik, bakım, tamir, kişisel hizmetler ve daha fazlası için profesyonellerden hızlı şekilde hizmet almasını sağlayan bir marketplace platformudur.
 
-Bu repo, uygulamanın **public vitrini** olarak hazırlanmıştır.
+Bu repo, uygulamanın **public vitrini** olarak hazırlanmıştır. <br> <br>
+Version Notları İçin <a href="http://92.249.61.58/docs">Docks</a> Bakabilirsiniz.
 
 ### İçerik:
 - ✔ Stabil APK indirme bağlantıları (GitHub Releases)
